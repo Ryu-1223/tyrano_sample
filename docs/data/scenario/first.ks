@@ -5,7 +5,7 @@
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「走るか歩くかするメロス」[l][r]
 
 メロスは激怒した。[l][r]
 
