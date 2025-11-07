@@ -7,6 +7,8 @@
 
 「レシーブするバレーボーラー」[l][r]
 
+[bg storage=volleyball.jpg time=500]
+
 「ピーー！」[l][r]
 
 試合開始の笛が鳴った。[l][r]
@@ -23,7 +25,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=recieve.jpg time=500]
 
 きれいなレシーブでセッターにボールが返った。[l][r]
 
@@ -37,7 +39,7 @@
 
 *tag_mistake
 
-[bg storage=run.jpg time=500]
+[bg storage=mistake.jpg time=500]
 
 [cm]
 「あっ...」[l][r]
