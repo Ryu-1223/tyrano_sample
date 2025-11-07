@@ -13,7 +13,7 @@
 
 相手のサーブだ。[l][r]
 
-ボールがこっちに飛んできた！
+ボールがこっちに飛んできた！[r]
 
 [link target=*tag_recieve] →ナイスレシーブ！ [endlink][r]
 [link target=*tag_mistake] →ミス... [endlink][r]
